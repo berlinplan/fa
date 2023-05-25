@@ -1,5 +1,5 @@
 ## [Deutsch](http://www.berlinplan.com/de/) [Farsi](http://www.berlinplan.com/fa/) [English](http://www.berlinplan.com/) 
-## [Source](http://www.berlinplan.com/fragen/)
+## [references](http://www.berlinplan.com/fragen/)
 درمورد سؤالات زیر تامل فرمایید متن زیر سوال،صرفا جنبه ی اطلاعاتی دارد.
 
 1.	گوشی های هوشمند بهتر، درمانی برای سرطان و مبارزه با گرسنگی در آفریقا، اگر بردگی تداوم میافت؟
