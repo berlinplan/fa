@@ -1,4 +1,5 @@
-# [Deutsch](http://www.berlinplan.com/de/) [Farsi](http://www.berlinplan.com/fa/) [Source](http://www.berlinplan.com/fragen/)
+## [Deutsch](http://www.berlinplan.com/de/) [Farsi](http://www.berlinplan.com/fa/) [English](http://www.berlinplan.com/) 
+## [Source](http://www.berlinplan.com/fragen/)
 لطفاً سؤالات زیر را در نظر بگیرید و برای اطلاعات بیشتر به متن خاکستری توجه کنید.
 1.	گوشی های هوشمند بهتر، درمانی برای سرطان و مبارزه با گرسنگی در آفریقا در صورت تداوم بردگی؟
 فواید برده داری برای توسعه جهان: (224)
